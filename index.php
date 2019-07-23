@@ -1,6 +1,3 @@
-<?php
-get_header();
-?>
 
 <h1> this is the top of my page</h1>
 
